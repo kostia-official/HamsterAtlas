@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="refresh_interval">
+        <item>@string/sec_15</item>
+        <item>@string/sec_30</item>
+        <item>@string/sec_60</item>
+        <item>@string/min_5</item>
+        <item>@string/min_10</item>
+        <item>@string/min_30</item>
+    </string-array>
+
+    <!--Time in ms-->
+    <string-array name="refresh_interval_values">
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>1800000</item>
+    </string-array>
+</resources>

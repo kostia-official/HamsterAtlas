@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Атлас Хомячков</string>
+
+    <string name="action_settings">Настройки</string>
+    <string name="action_share">Поделиться</string>
+    <string name="action_update">Обновить данные</string>
+
+    <string name="description">Описание</string>
+
+    <string name="pref_cat_refresh">Обновление данных</string>
+    <string name="pref_title_refresh_interval">Время обновления</string>
+
+    <string name="sec_15">15 секунд</string>
+    <string name="sec_30">30 секунд</string>
+    <string name="sec_60">60 секунд</string>
+    <string name="min_5">5 минут</string>
+    <string name="min_10">10 минут</string>
+    <string name="min_30">30 минут</string>
+
+</resources>
